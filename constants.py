@@ -1,0 +1,3 @@
+CELEBS = [
+    'Thom_Wolf',
+]
